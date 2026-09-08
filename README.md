@@ -1,6 +1,8 @@
 # COSMOWEAVE UNISON
 
-**Causal-Tuning Unified Physics and Grand-Unification Compiler**
+Created by Yucong Duan (段玉聪).
+
+Causal-Tuning Unified Physics and Grand-Unification Compiler
 
 COSMOWEAVE UNISON extends the original causal-tuning world model from life and consciousness into fundamental physics. It studies a precise candidate principle:
 
@@ -12,19 +14,19 @@ The project does not announce a completed theory of everything. It provides an e
 
 The reference suite contains six linked probes:
 
-1. **Path coherence** - compares phase-tuned, diffuse, and destructively split route ensembles.
-2. **Gauge covariance** - performs random local U(1) frame transformations and verifies invariance of plaquette and Wilson-loop observables.
-3. **Gauge-coupling running** - runs the Standard Model couplings at one loop and computes the threshold mismatch at the non-Abelian meeting scale.
-4. **Grand-unification compiler** - evaluates SU(5), Pati-Salam, Spin(10), E6, and a dual-connection meta-unification candidate against explicit hard gates.
-5. **Dual-connection probe** - demonstrates that spacetime-frame and internal-frame connections can share one covariance/holonomy law without being forced into one ordinary simple group.
-6. **Fundamental-question compiler** - publishes scoped answers, status labels, and falsifiers for eighteen major questions.
+1. Path coherence - compares phase-tuned, diffuse, and destructively split route ensembles.
+2. Gauge covariance - performs random local U(1) frame transformations and verifies invariance of plaquette and Wilson-loop observables.
+3. Gauge-coupling running - runs the Standard Model couplings at one loop and computes the threshold mismatch at the non-Abelian meeting scale.
+4. Grand-unification compiler - evaluates SU(5), Pati-Salam, Spin(10), E6, and a dual-connection meta-unification candidate against explicit hard gates.
+5. Dual-connection probe - demonstrates that spacetime-frame and internal-frame connections can share one covariance/holonomy law without being forced into one ordinary simple group.
+6. Fundamental-question compiler - publishes scoped answers, status labels, and falsifiers for eighteen major questions.
 
 ## 2. Core problem
 
 Grand unification and quantum gravity are often conflated. The project separates them:
 
-- **Internal grand unification** asks which high-energy internal symmetry best unifies quarks, leptons, charges, and gauge couplings.
-- **Full physical unification** asks why quantum amplitudes, gauge fields, spacetime geometry, matter, and effective law all use connection, composition, curvature, and coarse-graining structures.
+- Internal grand unification asks which high-energy internal symmetry best unifies quarks, leptons, charges, and gauge couplings.
+- Full physical unification asks why quantum amplitudes, gauge fields, spacetime geometry, matter, and effective law all use connection, composition, curvature, and coarse-graining structures.
 
 Under explicit conventional hard gates, Spin(10) is selected as the strongest minimal internal GUT candidate. Full unification is represented instead by a dual-connection causal-transport law: a spacetime spin connection and a Spin(10) internal connection are different low-energy sections of one local-covariance principle.
 
@@ -126,7 +128,7 @@ All reference probes use deterministic seeds. `run_proof.json` records SHA-256 h
 
 ## 13. Evidence boundaries
 
-The system demonstrates executable relations and compares candidate theories. It does **not** prove:
+The system demonstrates executable relations and compares candidate theories. It does not prove:
 
 - that the proposed causal-tuning principle is the final law of nature;
 - that Spin(10) is uniquely realized in nature;
